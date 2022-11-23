@@ -1,0 +1,11 @@
+redis
+sqlalchemy
+psycopg2
+postgres
+gunicorn
+gevent
+Authlib
+pathlib2
+sqlalchemy-trino
+setuptools
+jmespath
